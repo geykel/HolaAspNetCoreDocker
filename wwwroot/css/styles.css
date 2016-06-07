@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.logo {
+    width: 200px;
+    padding: 5px;
+}
+
+li {
+    padding: 5px 0 5px;
+}
